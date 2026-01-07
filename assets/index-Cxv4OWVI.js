@@ -92161,7 +92161,7 @@ function pde() {
     d = [
       {
         name: "NASDAQ666",
-        address: "0xE8145FF1E851D254E22453C95d6436E10498F9B3",
+        address: "0xcomingsoon",
         symbol: "NDQ",
         decimals: 18,
         chainId: 56,
@@ -92194,7 +92194,7 @@ function pde() {
           theme: f,
           tokenList: d,
           provider: i,
-          defaultTokenOut: "0xE8145FF1E851D254E22453C95d6436E10498F9B3",
+          defaultTokenOut: "0xcomingsoon",
           defaultTokenIn: "0xe9e7cea3dedca5984780bafc599bd69add087d56",
           feeSetting: p,
           enableRoute: !0,
@@ -97200,7 +97200,7 @@ const vc = {
       ],
     });
   },
-  ly = "0xE8145FF1E851D254E22453C95d6436E10498F9B3",
+  ly = "0xcomingsoon",
   u1e = () =>
     W.jsxs("section", {
       className: "relative bg-[#1b1b1b] w-full !z-20 py-20",
@@ -97351,7 +97351,7 @@ const vc = {
           className: "font-primary text-center text-white flex justify-center",
           children: [
             W.jsxs("iframe", {
-              src: "https://pancakeswap.finance/swap?outputCurrency=0xE8145FF1E851D254E22453C95d6436E10498F9B3&inputCurrency=BNB",
+              src: "https://pancakeswap.finance/swap?outputCurrency=0xcomingsoon&inputCurrency=BNB",
               style: {width: "400px", height: "500px"}
             }),
           ],
@@ -97489,13 +97489,13 @@ const vc = {
   NL = [
     {
       img: "/imgs/socials/whitedextools.svg",
-      url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xE8145FF1E851D254E22453C95d6436E10498F9B3",
+      url: "https://www.dextools.io/app/en/bnb/pair-explorer/0xcomingsoon",
       variant: "w-16 h-16",
       title: "Dextools",
     }, 
     {
       img: "/imgs/socials/whitedexscreener.svg",
-      url: "https://dexscreener.com/bsc/0xE8145FF1E851D254E22453C95d6436E10498F9B3",
+      url: "https://dexscreener.com/bsc/0xcomingsoon",
       variant: "w-16 h-16",
       title: "Dexscreener",
     },
@@ -97507,7 +97507,7 @@ const vc = {
     },
     {
       img: "/imgs/socials/twitter.svg",
-      url: "https://x.com/BinanceLifeX",
+      url: "https://x.com/BinancelifeX",
       variant: "w-16 h-16",
       title: "Twitter",
     },
