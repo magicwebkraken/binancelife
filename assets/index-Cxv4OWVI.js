@@ -97501,7 +97501,7 @@ const vc = {
     },
     {
       img: "/imgs/socials/telegram.svg",
-      url: "https://t.me/thebinancelife",
+      url: "https://t.me/binancelife_fun",
       variant: "w-16 h-16",
       title: "Telegram",
     },
